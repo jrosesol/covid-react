@@ -8,7 +8,7 @@
     "express": "^4.17.1",
     "graphql": "^14.6.0",
     "jsonpath": "^1.0.2",
-    "next": "^7.0.2",
+    "next": "^9.3.2",
     "path-match": "^1.2.4",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
